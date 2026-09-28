@@ -1,0 +1,6 @@
+#program 66
+numbers = [40, 10, 50, 20, 30]
+
+numbers.sort()
+
+print(numbers)
