@@ -1,0 +1,6 @@
+# PROGRAM 1
+NAME=("Salish Matter")
+AGE=("18")
+BRANCH=("ECS(IBM)")
+COLLEGE=("LPU")
+print(NAME,AGE,BRANCH,COLLEGE)
